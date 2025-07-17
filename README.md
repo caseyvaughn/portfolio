@@ -1,24 +1,10 @@
-# README
+About this repo:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Accessibility Standards
 
-Things you may want to cover:
+- use `axe-core-rspec` gem to automated accessibility testing and meet axe-core accessibility standards
 
-* Ruby version
+Site Design
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [#MindfulPalettes № 88](https://x.com/AlexCristache/status/1805254927633043530)
+  designed by [Alex Cristache](https://x.com/AlexCristache)
