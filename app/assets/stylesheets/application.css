@@ -3,6 +3,7 @@
 *= require_tree .
 */
 
+/* TODO: fix this */
 body {
   background-color: var(--color-bg);
   color: var(--color-text);
